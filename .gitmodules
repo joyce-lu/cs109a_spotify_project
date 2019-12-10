@@ -1,0 +1,3 @@
+[submodule "presentation/themes/onedly"]
+	path = presentation/themes/onedly
+	url = https://github.com/cdeck3r/OneDly-Theme.git
